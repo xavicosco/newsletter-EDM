@@ -1,4 +1,4 @@
-Build eDM's in <table> format and inline CSS only. It will be nested table inside another and so on. Some coding tips to keep in mind:
+Build eDM's in format and inline CSS only. It will be nested table inside another and so on. Some coding tips to keep in mind:
 
 Basics rules and tips:
 *Review the handoff and set a general cut-up layout 
