@@ -8,12 +8,16 @@ Basics rules and tips:
 * Do not use “float” styling and positioning with nested tables instead.
 * Always add the styles display:block; and border:0;to <img> tags.
 * Do notuse background images. 
+
 Tables
 * Don’t use Column or Row Span in table.
 * Inner table width should not exceed parent’s width.(Consider paddings and margins)
+
+
 Paragraph
 * Use of text is preferred whenever necessary over images.
 * Always declare font size and line height to control the look across all browsers.
+
 Images
 * Always add the stylesdisplay:block; and border:0;on <img> tags.
 
